@@ -21,3 +21,4 @@ The data involved name, year and IMDB rating.
 Future Improvements:
 I wish I had more time to pull more information from the webscrape involving genres and maturity rating, to give more metrics to compare to and give a more accurate report.
 I also discovered late in the project the ability to filter by decade, and would have enjoyed finding the top/bottom 3 films in each decade.
+I had also hoped to have more time overall to complete the project to the best of my ability.

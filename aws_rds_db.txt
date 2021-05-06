@@ -1,4 +1,4 @@
-Username:admin
-Password:SQL_2021
-Host: sql-project.cxtlpugkoxht.us-east-1.rds.amazonaws.com
-Database: sql-project
+Username:USER
+Password:PASS
+Host: HOST
+Database: DATABASE
